@@ -1,5 +1,4 @@
-CS214 p3 - My Shell
-    Tushar Cora Suresh (tc901) and Vatsal Mehta (vkm31)
+My Shell - Tushar Cora Suresh
 
 Overview
 MyShell is a custom shell implementation for Unix-based systems, crafted as part of the CS214 project. It offers both interactive and batch modes, efficiently handling command execution, redirection, piping, wildcards, and built-in commands. The design emphasizes compliance with Unix shell behavior, incorporating advanced features like handling wildcards and conditional execution based on the status of previous commands.
